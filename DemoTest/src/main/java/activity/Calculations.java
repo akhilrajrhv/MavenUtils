@@ -8,7 +8,7 @@ public class Calculations {
 	public void addition() 
 	{
 		sum=a+b;
-		System.out.println("Addition result is"+sum);
+		System.out.println("Addition of two numbers is"+sum);
 	}
 	public void substrcation() {
 		sub=a-b;
